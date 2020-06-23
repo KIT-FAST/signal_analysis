@@ -7,8 +7,8 @@ This repository is currently work in progress! Expect to encounter errors and mi
 
 ## Start and edit notebooks in your browser
 
-The Binder Project offers an easy method to use python notebooks from github in your browser without installing any special software. To start a notebook, just use the folllowing link an exchange the filename if you want to use a different notebook.
+The Binder Project offers an easy method to use python notebooks from github in your browser without installing any special software. To start this project in Binder, just use the folllowing button and then select a notebook:
 
-https://mybinder.org/v2/gh/KIT-FAST/signal_analysis/master?filepath=leakage.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KIT-FAST/signal_analysis/master)
 
 To learn more about Binder, visit https://mybinder.readthedocs.io/en/latest/introduction.html.
